@@ -198,6 +198,7 @@ int main(){
       }
   }
 
+  //output the dest - source - length - message
   cout<<"size of"<<VF.size()<<endl;
   for(int i=0; i<VF.size(); i++){
     for(int j=0; j<DEST_ADDRESS; j++){
